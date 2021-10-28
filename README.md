@@ -1,2 +1,0 @@
-# ResponsivePortfolio
-Created with CodeSandbox
