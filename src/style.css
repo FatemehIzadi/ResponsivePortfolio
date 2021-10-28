@@ -99,3 +99,12 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.intro {
+  margin: 50px;
+  color: #6c63ff;
+}
+
+.my-name {
+  font-size: 50px;
+}
